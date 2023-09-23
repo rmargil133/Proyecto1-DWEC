@@ -40,13 +40,13 @@ marp: true
 
 La arquitectura web consiste en la planificación y diseño de los componentes técnicos, funcionales y visuales de un sitio web, antes de que sea diseñado, desarrollado e implementado.
 
-###### *- Investigación de los modelos cliente/servidor más comunes*
+ *- Investigación de los modelos cliente/servidor más comunes*
 
 - **Single Page Application (SPA)**: consiste en una única página que recoge todo el contenido de forma que el usuario una vez accede a la aplicación, no necesita navegar a otra página web.                                                                           Ventajas de las SPA, podemos construir aplicaciones web con muchas interacciones, optimizar las SPA no supone gran impacto en el rendimiento.
 - **Arquitectura de Aplicaciones Web Progresivas (PWA)**: se basa en una única página que proporciona capacidades offline para tu aplicación web. Al igual que las SPA, las PWA son fluidas y sin fisuras.                                                                              Ventajas de la arquitectura PWA, las aplicaciones se ejecutan con mucha fluidez y son compatibles entre plataformas, los desarrolladores pueden acceder al acceso sin conexión y a las API de los dispositivos.
 - **Arquitectura de Renderizado del Lado Servidor (SSR)**: consiste en el renderizado de las páginas web desde un servidor backend después de que un usuario las solicite. Las aplicaciones SSR son muy populares entre los blogs y sitios web de comercio electrónico.Ventajas de la arquitectura SSR, la carga de la primera página es casi instantánea en la mayoría de los casos, puedes combinarla con un servicio cache para mejorar aun mas el rendimiento de tu aplicación.
 
-###### *- Identificación de ejmplos de aplicaciones que utilizan cada modelo*
+ *- Identificación de ejmplos de aplicaciones que utilizan cada modelo*
 
 - **Single Page Application**: algunos ejemplos de una SPA son Gmail, LinkedIn o Twitter y la carga entre vistas es extremadamente rápidas.
 
@@ -56,7 +56,7 @@ La arquitectura web consiste en la planificación y diseño de los componentes t
 
 ### 2. Mecanismos de Ejecución de Código en un Navegador Web. Capacidades y Limitaciones de Ejecución. Compatibilidad con Navegadores Web.
 
-###### *- Estudio de como se ejecuta el código JavaScript en un navegador*
+ *- Estudio de como se ejecuta el código JavaScript en un navegador*
 
 En Chrome podemos crear snippets que son fragmentos pequeños de códigos y nos permiten ejecutar código JavaScript en nuestro navegador.
 
@@ -64,7 +64,7 @@ Para crear un snippet en Chrome podemos usar la consola del navegado dentro de l
 
 Poir último presionamos CTRL+Enter o CMD+Enter para ejecutar el programa y ver la salida desde la consola.
 
-###### *- Evaluación de las difrencias de compatibilidad entre navegadores*
+ *- Evaluación de las difrencias de compatibilidad entre navegadores*
 
 De entre todos los navegadores que existen a día de hoy vemos cuales son los mas usados por los usuarios en pleno 2023 teniendo en cuenta el apartado web, es importante una la compatibilidad de los mismos ya que no en todos los navegadores nuestra web se ve de la misma manera.
 
