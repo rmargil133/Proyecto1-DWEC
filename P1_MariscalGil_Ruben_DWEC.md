@@ -78,11 +78,11 @@ De entre todos los navegadores que existen a día de hoy vemos cuales son los ma
 Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 *-Resolución de problemas de compatibilidad en una aplicación web.*
--Validar los archivos CSS y HTML ya que pueden ser un gran problema para los desarrolladores. Esto se debe al que el código es leído y cada navegador lo gestiona de una forma distinta y cualquier error produce fallos o problemas.
+- Validar los archivos CSS y HTML ya que pueden ser un gran problema para los desarrolladores. Esto se debe al que el código es leído y cada navegador lo gestiona de una forma distinta y cualquier error produce fallos o problemas.
 
--No incluir la línea más básica del HTML (Doctype) puede ser el causante de errores a la hora de representar la página web. Aunque muchos navegadores no comprueban el Doctype los mas antiguos si lo hacen. La solución es muy simple comprobar si el HTML incluye el Doctype.
+- No incluir la línea más básica del HTML (Doctype) puede ser el causante de errores a la hora de representar la página web. Aunque muchos navegadores no comprueban el Doctype los mas antiguos si lo hacen. La solución es muy simple comprobar si el HTML incluye el Doctype.
 
--Los problemas de compatibilidad de JavaScript se puede generar al intentar usar funciones actuales de JavaScript en navegadores más antiguos u obsoletos.
+- Los problemas de compatibilidad de JavaScript se puede generar al intentar usar funciones actuales de JavaScript en navegadores más antiguos u obsoletos.
 Para tratar de solucionarlos debemos de investigar si la función es compatible con las versiones de los navegadores más antiguos y puedes hacer uso para ello de la herramienta Caniuse.
 Puedes usar herramientas como Babel for JavaScript Transpilling para poder convertir el código JavaScript utilizando las ultimas funciones siendo adaptadas a los navegadores más antiguos.
 
