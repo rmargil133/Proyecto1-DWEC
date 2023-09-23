@@ -62,7 +62,7 @@ En Chrome podemos crear snippets que son fragmentos pequeños de códigos y nos 
 
 Para crear un snippet en Chrome podemos usar la consola del navegado dentro de la sección Sources / Snippets / New Snippet, elegimos el nombre que queramos y escribimos en la consola console.log (“Hello World”);
 
-Poir último presionamos CTRL+Enter o CMD+Enter para ejecutar el programa y ver la salida desde la consola.
+Por último presionamos CTRL+Enter o CMD+Enter para ejecutar el programa y ver la salida desde la consola.
 
  *- Evaluación de las difrencias de compatibilidad entre navegadores*
 
