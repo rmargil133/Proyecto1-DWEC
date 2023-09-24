@@ -186,7 +186,7 @@ HTML5 es un lenguaje de marcas que permite estructura y presentar contenido en l
 
 - **Canvas.** Nos permite crear gráficos y animaciones usando JavaScript.
 
-<img src="lenguajes-tecnologias.png" width="280"/>
+<img src="lenguajes-tecnologias.png" width="240"/>
 
 Estas son algunas de las tecnologías complementarias de HTML5 que nos permiten poder llevar nuestras páginas web a un nivel superior.
 
