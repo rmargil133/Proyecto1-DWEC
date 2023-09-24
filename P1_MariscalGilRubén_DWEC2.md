@@ -92,6 +92,7 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 ---
 ### 3. Lenguajes de Programación en Entonrno Cliente.
 *- Investigación de lenguajes como JavaScript, Typescript y otros*
+
 - **JavaScript**: es un lenguaje de programación ligero, interpretado o compilado justo-a-tiempo con funciones de primera clase y su usa para crear interactividad dinámica en los sitios web.
 
 - **HTML**: es el lenguaje con el que se define el contenido de las páginas web. 
@@ -104,46 +105,39 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 *-Comparación de sus caracteristicas y aplicaciones*
 *Caracteristicas de JavaScript y aplicaciones.*
-- JavaScript es un lenguaje interpretado, lo que significa que no necesita ser compilado antes de ejecutarse.
 
-- JavaScript es un lenguaje orientado a objetos utiliza prototipos para poder definir los objetos. 
-
-- JavaScript es un lenguaje muy sencillo, tanto que no hace falta tener unos amplios conocimientos de programación para poder hacer un programa en JavaScript.
-
-- Al ser un lenguaje interpretado le permite tener múltiples interpretes en distintos navegadores como Chrome, Safari u Opera, ... 
+- Es un lenguaje interpretado.
+- Es orientado a objetos y utiliza prototipos para poder definir los objetos. 
+- Es un lenguaje muy sencillo.
+- Al ser un lenguaje interpretado le permite tener múltiples interpretes en distintos navegadores.
 
 Se usa en el Desarrollo de aplicaciones Web, Desarrollo web, desarrollo de juegos en línea, etc. 
 
 *Caracteristicas de HTML y aplicaciones.*
+
 - No es necesario estar en línea para que el lenguaje HTML funcione correctamente.
-
-- Es muy fácil de usar y entender para cualquier persona haya o no programado anteriormente.
-
+- Es muy fácil de usar y entender.
 - Es reconocido y admitido por cualquier tipo de explorador web.
-
 - Es multiplataforma, por lo que se puede acceder desde cualquier lugar y dispositivo.
 
 Se usa para la estructuración de contenido de una página web.
 
 
 *Caracteristicas de CSS y aplicaciones.*
-- Es utilizable en todos los navegadores y plataforma ya que es un lenguaje popular para dar formato a los sitios web.
 
-- Optimiza el funcionamiento de las páginas web al separar el código de contenido y de estilo.
-
+- Es utilizable en todos los navegadores y plataforma.
+- Optimiza el funcionamiento de las páginas web.
 - Permite personalizar totalmente la apariencia de las páginas. 
 
 CSS se utiliza para controlar el diseño y la maquetación de una página web.
 
 
 *Caracteristicas de Typescript y aplicaciones.*
-- TypeScript admite todos los elementos de JavaScript.
 
-- TypeScript se fundamenta en JavaScript, por ello te será muy fácil utilizarlo si ya tienes conocimientos sobre JavaScript. 
-
-- TypeScript se puede ejecutar en cualquier navegador, dispositivo o sistema operativo.
-
-- TypeScript tiene todas las herramientas de un lenguaje de programación orientado a objetos como clases, interfaces, herencia, módulos, etc.
+- Admite todos los elementos de JavaScript.
+- Se fundamenta en JavaScript. 
+- Se puede ejecutar en cualquier navegador, dispositivo o sistema operativo.
+- Tiene todas las herramientas de un lenguaje de programación orientado a objetos.
 
 Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de software en general.
 
@@ -153,23 +147,17 @@ Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de 
 
 *Ventajas de la programación en lenguajes de script:*
 
-- **Fácil integración.** Los lenguajes de script suelen ser compatibles con otras tecnologías y sistemas.
-
-- **Rápido Desarrollo.** La programación en lenguajes de script tiende a ser más rápida debido a la sintaxis precisa y a las bibliotecas y marcos de trabajo disponibles.
-
-- **Facilidad de Aprendizaje.** Los lenguajes de script suelen ser más sencillos de aprender y utilizar en comparación con lenguajes de programación de bajo nivel.
-
-- **Amplia Comunidad y Soporte.** Los lenguajes de script suelen tener comunidades de desarrolladores, por lo que es más sencillo encontrar ayuda, recursos, etc.
+- **Fácil integración.** 
+- **Rápido Desarrollo.** 
+- **Facilidad de Aprendizaje.**
+- **Amplia Comunidad y Soporte.** 
 
 *Desventajas de la programación en lenguajes de script:*
 
-- **Dependencias Externas.** Los proyectos en lenguajes de script a menudo dependen de bibliotecas y módulos externos.
-
-- **Rendimiento.** Los lenguajes de script suelen ser más lentos en términos de rendimiento en comparación con lenguajes de programación compilados como C++ o Java.
-
-- **Mayor Uso de Recursos.** Los lenguajes de script a menudo consumen más recursos del sistema en comparación con lenguajes compilados.
-
-- **Tamaño de Ejecutables.** Los scripts y las aplicaciones escritas en lenguajes de script tienden a tener archivos ejecutables más grandes en comparación con aplicaciones nativas.
+- **Dependencias Externas.** 
+- **Rendimiento.** 
+- **Mayor Uso de Recursos.** 
+- **Tamaño de Ejecutables.** 
 
 ---
 ### 5. Tecnologías y Lenguajes Asociados. Integración del Código con las Etiquetas HTML.
@@ -178,13 +166,13 @@ Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de 
 
 HTML5 es un lenguaje de marcas que permite estructura y presentar contenido en la web.
 
-- **CSS.** Nos permite dar estilo y belleza a nuestras paginas web.
+- **CSS.**
 
-- **JavaScript.** Con JavaScript vamos a poder hacer nuestras páginas interactivas y dinámicas.
+- **JavaScript.**
 
-- **SVG.** Esta tecnología permite crear gráficos y animaciones vectoriales en la web.
+- **SVG.**
 
-- **Canvas.** Nos permite crear gráficos y animaciones usando JavaScript.
+- **Canvas.**
 
 <img src="lenguajes-tecnologias.png" width="215"/>
 
@@ -238,41 +226,35 @@ JavaScript en un archivo externo.
 ### 6. Herramientas de Programación. 
 *- Uso de herramientas como Visual Studio Code, Chrome DevTools, etc.*
 
-- **Visual Studio Code.** Es un editor de código abierto que se ejecuta en Windows, Linux y macOS. 
+- **Visual Studio Code.**
 
 <img src="vscode.png" width="130"/>
 
 *- Algunas características claves de Visual Studio Code*
 
-- **Soporte a los mejores lenguajes de programación.** Esta herramienta de desarrollo web funciona con varios lenguajes, incluidos C++, JavaScript y Python.
+- **Soporte a los mejores lenguajes de programación.**
+- **Tiene una amplia biblioteca de extensiones.** 
+- **Resaltado de sintaxis.**
 
-- **Tiene una amplia biblioteca de extensiones.** Hay varios temas y plugin disponibles en su Marketplace.
-
-- **Resaltado de sintaxis.** Muestra el código en diferentes colores y fuentes según las palabras clave y el lenguaje de programación.
-
-- **Chrome Developer Tools.** Son un conjunto de herramientas de edición y depuración web integradas en el navegador Google Chrome. 
+- **Chrome Developer Tools.**
 
 <img src="devtools.jpeg" width="140"/>
 
 *- Algunas características claves de Chrome Developer Tools*
 
-- **Anulaciones locales.** Guarda los cambios que hayas realizado en cualquier página web en tu computadora local y anula automáticamente sus datos.
+- **Anulaciones locales.** 
+- **Características del diseño web.**
+- **Herramientas de diagnóstico.** * Ve el uso de memoria de una página web con el Administrador de tareas de Chrome.
 
-- **Características del diseño web.** Los diseñadores web pueden verificar varios diseños de páginas web.
-
-- **Herramientas de diagnóstico.** Ve el uso de memoria de una página web con el Administrador de tareas de Chrome.
-
-- **GitHub.** Es un servicio de alojamiento de repositorio de Git basado en la nube y de código abierto que ofrece una interfaz gráfica basada en la web.
+- **GitHub.**
 
 <img src="GitHub.png" width="140"/>
 
 *- Algunas características claves de GitHub*
 
-- **Solicitudes de extracción y revisión de código.** Con GitHub, puedes asignar hasta 10 personas para trabajar en un problema específico o una solicitud de extracción. 
-
-- **Amplias funciones de seguridad.** Cuenta con una herramienta de escaneo de código para identificar fallas de seguridad 
-
-- **Automatización.** Con GitHub, puedes automatizar tareas como la CI/CD, pruebas, gestión de proyectos e incorporación de nuevos miembros.
+- **Solicitudes de extracción y revisión de código.** 
+- **Amplias funciones de seguridad.** 
+- **Automatización.** 
 
 ---
 # - Bibliografía -
