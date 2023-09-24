@@ -100,7 +100,7 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 - **TypeScript**: es un lenguaje de programación fuertemente tipado que está basado en JavaScript y le brinda mejores herramientas a cualquier escala. 
 
-<img src="lenguajes-programacion.png"/>
+<img src="lenguajes-programacion.png" width="250"/>
 
 *-Comparación de sus caracteristicas y aplicaciones*
 *Caracteristicas de JavaScript y aplicaciones.*
