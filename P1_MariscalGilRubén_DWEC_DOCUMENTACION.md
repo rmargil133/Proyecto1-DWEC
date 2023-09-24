@@ -267,7 +267,7 @@ JavaScript en un archivo externo.
 
 - *Automatización.* Con GitHub, puedes automatizar tareas como la CI/CD, pruebas, gestión de proyectos e incorporación de nuevos miembros.
 
- ###Bibliografia
+### - Bibliografía -
 
  https://kinsta.com/es/blog/arquitectura-aplicaciones-web/
 
