@@ -34,15 +34,15 @@ marp: true
 
 - **Single Page Application (SPA)**:  es una aplicación web que carga todo su contenido en una sola página sin recargar la página completa al navegar.
 
-<img src="SPA.png" width="350"/>
+<img src="SPA.png" width="300"/>
 
 - **Arquitectura de Aplicaciones Web Progresivas (PWA)**: es una única página que proporciona capacidades offline para tu aplicación web. 
 
-<img src="PWA.png" width="200"/>
+<img src="PWA.png" width="300"/>
 
 - **Arquitectura de Renderizado del Lado Servidor (SSR)**:  renderizado de las páginas web desde un servidor backend después de que un usuario las solicite.
 
-<img src="SSR.png" width="200"/>
+<img src="SSR.png" width="300"/>
 
  *- Identificación de ejmplos de aplicaciones que utilizan cada modelo*
 
