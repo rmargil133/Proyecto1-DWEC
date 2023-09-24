@@ -48,15 +48,15 @@ marp: true
 
 - **Single Page Application**: algunos ejemplos de una SPA son Gmail, LinkedIn o Twitter.
 
-<img src="Eje SPA.png"/>
+<img src="Eje SPA.png" width="220"/>
 
 - **Aplicaciones Web Progresivas**: hay ejemplos de PWA como Google Maps, Uber, Instagram, Facebook, etc.
 
-<img src="Eje PWA.png"/>
+<img src="Eje PWA.png" width="220"/>
 
 - **Renderizado del Lado Servidor**: ejemplos son principalmente blogs o sitios web de comercio electrónico.
 
-<img src="Eje SSR.png"/>
+<img src="Eje SSR.png" width="220"/>
 
 ---
 ### 2. Mecanismos de Ejecución de Código en un Navegador Web. Capacidades y Limitaciones de Ejecución. Compatibilidad con Navegadores Web.
