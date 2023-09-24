@@ -87,7 +87,7 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 - No incluir la línea más básica del HTML (Doctype)
 - Investigar si la función de JavaScripr es compatible con las versiones de los navegadores más antiguos y puedes hacer uso para ello de la herramienta Caniuse.
 
-<img src="html-css-js.png"/>
+<img src="html-css-js.png" width="250"/>
 
 ---
 ### 3. Lenguajes de Programación en Entonrno Cliente.
