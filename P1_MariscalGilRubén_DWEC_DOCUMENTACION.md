@@ -97,10 +97,10 @@ Puedes usar herramientas como Babel for JavaScript Transpilling para poder conve
 
 *-Toda la información acerca de este punto la he sacados de estas referencias:*
 
-https://www.manualweb.net/javascript/caracteristicas-javascript/
-https://www.nextu.com/blog/que-es-html-rc22/
-https://blog.hubspot.es/website/que-es-css#caract
-https://www.crehana.com/blog/transformacion-digital/que-es-typescript/
+-https://www.manualweb.net/javascript/caracteristicas-javascript/
+-https://www.nextu.com/blog/que-es-html-rc22/
+-https://blog.hubspot.es/website/que-es-css#caract
+-https://www.crehana.com/blog/transformacion-digital/que-es-typescript/
 
 Lo explican muy bien además de incluir caracteristicas de cada uno y demás,.
 
