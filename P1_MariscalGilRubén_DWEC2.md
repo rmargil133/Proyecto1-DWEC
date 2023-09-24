@@ -30,7 +30,7 @@ marp: true
 
 ---
 ### 1. Modelos de Programación en Arquitectura Web.
- *- Investigación de los modelos cliente/servidor más comunes*
+#### Investigación de los modelos cliente/servidor más comunes.
 
 - **Single Page Application (SPA)**:  es una aplicación web que carga todo su contenido en una sola página sin recargar la página completa al navegar.
 
@@ -44,7 +44,7 @@ marp: true
 
 <img src="SSR.png" width="400"/>
 
- *- Identificación de ejmplos de aplicaciones que utilizan cada modelo*
+#### Identificación de ejmplos de aplicaciones que utilizan cada modelo.
 
 - **Single Page Application**: algunos ejemplos de una SPA son Gmail, LinkedIn o Twitter.
 
@@ -61,7 +61,7 @@ marp: true
 ---
 ### 2. Mecanismos de Ejecución de Código en un Navegador Web. Capacidades y Limitaciones de Ejecución. Compatibilidad con Navegadores Web.
 
- *- Estudio de como se ejecuta el código JavaScript en un navegador*
+#### Estudio de como se ejecuta el código JavaScript en un navegador.
 
 <img src="js-chrome.png"/>
 
@@ -69,7 +69,7 @@ En Chrome podemos crear snippets.
 Para crear un snippet en Chrome podemos usar la consola del navegador dentro de la sección Sources / Snippets / New Snippet, elegimos el nombre que queramos y escribimos en la consola console.log (“Hello World”);
 Por último presionamos CTRL+Enter o CMD+Enter para ejecutar el programa y ver la salida desde la consola.
 
- *- Evaluación de las difrencias de compatibilidad entre navegadores*
+#### Evaluación de las difrencias de compatibilidad entre navegadores.
 
 Para conseguir que nuestra página web se vea correctamente en el navegador influye la compatibiliad entre los navegadores, por eso vemos una tabla con los mas usados en 2023.
 
@@ -82,7 +82,7 @@ Para conseguir que nuestra página web se vea correctamente en el navegador infl
 
 Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
-*-Resolución de problemas de compatibilidad en una aplicación web.*
+#### Resolución de problemas de compatibilidad en una aplicación web.
 - Validar los archivos CSS y HTML ya que pueden ser un gran problema para los desarrolladores. 
 - No incluir la línea más básica del HTML (Doctype)
 - Investigar si la función de JavaScripr es compatible con las versiones de los navegadores más antiguos y puedes hacer uso para ello de la herramienta Caniuse.
@@ -91,20 +91,20 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 ---
 ### 3. Lenguajes de Programación en Entonrno Cliente.
-*- Investigación de lenguajes como JavaScript, Typescript y otros*
+#### Investigación de lenguajes como JavaScript, Typescript y otros.
 
 - **JavaScript**: es un lenguaje de programación ligero, interpretado o compilado justo-a-tiempo con funciones de primera clase y su usa para crear interactividad dinámica en los sitios web.
 
 - **HTML**: es el lenguaje con el que se define el contenido de las páginas web. 
 
-- **CSS**: es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, como lucen cuando el usuario las visita. 
+- **CSS**: es un lenguaje que maneja el diseño y presentación de las páginas web.
 
-- **TypeScript**: es un lenguaje de programación fuertemente tipado que está basado en JavaScript y le brinda mejores herramientas a cualquier escala. 
+- **TypeScript**: es un lenguaje de programación fuertemente tipado que está basado en JavaScript.
 
 <img src="lenguajes-programacion.png" width="250"/>
 
-*-Comparación de sus caracteristicas y aplicaciones*
-*Caracteristicas de JavaScript y aplicaciones.*
+#### Comparación de sus caracteristicas y aplicaciones.
+#### Caracteristicas de JavaScript y aplicaciones.
 
 - Es un lenguaje interpretado.
 - Es orientado a objetos y utiliza prototipos para poder definir los objetos. 
@@ -113,7 +113,7 @@ Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 Se usa en el Desarrollo de aplicaciones Web, Desarrollo web, desarrollo de juegos en línea, etc. 
 
-*Caracteristicas de HTML y aplicaciones.*
+#### Caracteristicas de HTML y aplicaciones.
 
 - No es necesario estar en línea para que el lenguaje HTML funcione correctamente.
 - Es muy fácil de usar y entender.
@@ -123,7 +123,7 @@ Se usa en el Desarrollo de aplicaciones Web, Desarrollo web, desarrollo de juego
 Se usa para la estructuración de contenido de una página web.
 
 
-*Caracteristicas de CSS y aplicaciones.*
+#### Caracteristicas de CSS y aplicaciones.
 
 - Es utilizable en todos los navegadores y plataforma.
 - Optimiza el funcionamiento de las páginas web.
@@ -131,8 +131,7 @@ Se usa para la estructuración de contenido de una página web.
 
 CSS se utiliza para controlar el diseño y la maquetación de una página web.
 
-
-*Caracteristicas de Typescript y aplicaciones.*
+#### Caracteristicas de Typescript y aplicaciones.
 
 - Admite todos los elementos de JavaScript.
 - Se fundamenta en JavaScript. 
@@ -143,16 +142,16 @@ Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de 
 
 ---
 ### 4. Caracteristicas de los Lenguajes de Script. Ventajas y Desventajas.
-*-Análisis de las ventajas y desventajas de la programación en lenguajes de script sobre la programación tradicional.*
+#### Análisis de las ventajas y desventajas de la programación en lenguajes de script sobre la programación tradicional.
 
-*Ventajas de la programación en lenguajes de script:*
+#### Ventajas de la programación en lenguajes de script:
 
 - **Fácil integración.** 
 - **Rápido Desarrollo.** 
 - **Facilidad de Aprendizaje.**
 - **Amplia Comunidad y Soporte.** 
 
-*Desventajas de la programación en lenguajes de script:*
+#### Desventajas de la programación en lenguajes de script:
 
 - **Dependencias Externas.** 
 - **Rendimiento.** 
@@ -161,8 +160,7 @@ Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de 
 
 ---
 ### 5. Tecnologías y Lenguajes Asociados. Integración del Código con las Etiquetas HTML.
-
-*-Exploración de tecnologías como CSS y HTML5.*
+#### Exploración de tecnologías como CSS y HTML5.
 
 HTML5 es un lenguaje de marcas que permite estructura y presentar contenido en la web.
 
@@ -178,7 +176,7 @@ HTML5 es un lenguaje de marcas que permite estructura y presentar contenido en l
 
 Estas son algunas de las tecnologías complementarias de HTML5 que nos permiten poder llevar nuestras páginas web a un nivel superior.
 
-*-Creación de una pequeña aplicación web integrando código JavaScript de diferentes maneras.*
+#### Creación de una pequeña aplicación web integrando código JavaScript de diferentes maneras.
 
 - Aplicación integrando JavaScript de 2 formas distintas.
 
@@ -224,13 +222,13 @@ JavaScript en un archivo externo.
 
 ---
 ### 6. Herramientas de Programación. 
-*- Uso de herramientas como Visual Studio Code, Chrome DevTools, etc.*
+#### Uso de herramientas como Visual Studio Code, Chrome DevTools, etc.
 
 - **Visual Studio Code.**
 
 <img src="vscode.png" width="130"/>
 
-*- Algunas características claves de Visual Studio Code*
+#### Algunas características claves de Visual Studio Code.
 
 - **Soporte a los mejores lenguajes de programación.**
 - **Tiene una amplia biblioteca de extensiones.** 
@@ -240,7 +238,7 @@ JavaScript en un archivo externo.
 
 <img src="devtools.jpeg" width="140"/>
 
-*- Algunas características claves de Chrome Developer Tools*
+#### Algunas características claves de Chrome Developer Tools.
 
 - **Anulaciones locales.** 
 - **Características del diseño web.**
@@ -250,7 +248,7 @@ JavaScript en un archivo externo.
 
 <img src="GitHub.png" width="140"/>
 
-*- Algunas características claves de GitHub*
+#### Algunas características claves de GitHub.
 
 - **Solicitudes de extracción y revisión de código.** 
 - **Amplias funciones de seguridad.** 
