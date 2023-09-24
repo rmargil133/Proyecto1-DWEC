@@ -257,4 +257,31 @@ JavaScript en un archivo externo.
 ---
 ### - Bibliografía -
 
+https://kinsta.com/es/blog/arquitectura-aplicaciones-web/
+
+https://digital55.com/blog/que-son-single-page-application-spa-desarrollo-elegido-por-gmail-linkedin/#:~:text=Pero%2C%20si%20nos%20fijamos%20bien,ejemplos%20de%20single%2Dpage%20application.
+
+https://apuntes.de/javascript-estructuras-de-datos-y-algoritmos/ejecutar-codigo-javascript-en-chrome/#gsc.tab=0
+
+https://www.w3counter.com/globalstats.php?year=2023&month=5
+
+https://comparium.app/es/blog/cross-browser-compatibility-issues/
+
+https://www.manualweb.net/javascript/caracteristicas-javascript/
+
+https://www.nextu.com/blog/que-es-html-rc22/
+
+https://blog.hubspot.es/website/que-es-css#caract
+
+https://www.crehana.com/blog/transformacion-digital/que-es-typescript/
+
+https://www.mediummultimedia.com/web/que-otras-tecnologias-se-usan-en-html5/
+
+https://www.hostinger.es/tutoriales/herramientas-de-programacion#3_Sublime_Text
+
+
+
+
+
+
 
