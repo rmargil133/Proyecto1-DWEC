@@ -240,7 +240,7 @@ JavaScript en un archivo externo.
 
 - **Visual Studio Code.** Es un editor de código abierto que se ejecuta en Windows, Linux y macOS. 
 
-<img src="vscode.png" width="230"/>
+<img src="vscode.png" width="215"/>
 
 *- Algunas características claves de Visual Studio Code*
 
@@ -252,7 +252,7 @@ JavaScript en un archivo externo.
 
 - **Chrome Developer Tools.** Son un conjunto de herramientas de edición y depuración web integradas en el navegador Google Chrome. 
 
-<img src="devtools.jpeg" width="230"/>
+<img src="devtools.jpeg" width="215"/>
 
 *- Algunas características claves de Chrome Developer Tools*
 
@@ -264,7 +264,7 @@ JavaScript en un archivo externo.
 
 - **GitHub.** Es un servicio de alojamiento de repositorio de Git basado en la nube y de código abierto que ofrece una interfaz gráfica basada en la web.
 
-<img src="GitHub.png" width="230"/>
+<img src="GitHub.png" width="215"/>
 
 *- Algunas características claves de GitHub*
 
