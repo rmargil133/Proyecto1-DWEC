@@ -42,7 +42,7 @@ La arquitectura web consiste en la planificación y diseño de los componentes t
 
  *- Investigación de los modelos cliente/servidor más comunes*
  
- - Según https://kinsta.com/es/blog/arquitectura-aplicaciones-web/ estos son los modelos cliente/servidor mas cómunes y las ventajas de cada uno 
+ *- Según https://kinsta.com/es/blog/arquitectura-aplicaciones-web/ estos son los modelos cliente/servidor mas cómunes y las ventajas de cada uno.*
 
 - **Single Page Application (SPA)**: consiste en una única página que recoge todo el contenido de forma que el usuario una vez accede a la aplicación, no necesita navegar a otra página web.                                                                           Ventajas de las SPA, podemos construir aplicaciones web con muchas interacciones, optimizar las SPA no supone gran impacto en el rendimiento.
 - **Arquitectura de Aplicaciones Web Progresivas (PWA)**: se basa en una única página que proporciona capacidades offline para tu aplicación web. Al igual que las SPA, las PWA son fluidas y sin fisuras.                                                                              Ventajas de la arquitectura PWA, las aplicaciones se ejecutan con mucha fluidez y son compatibles entre plataformas, los desarrolladores pueden acceder al acceso sin conexión y a las API de los dispositivos.
@@ -66,7 +66,7 @@ Para crear un snippet en Chrome podemos usar la consola del navegado dentro de l
 
 Por último presionamos CTRL+Enter o CMD+Enter para ejecutar el programa y ver la salida desde la consola.
 
-Para consultar mas acerca de como crear un snippet consultar esta web que he consultado yo y lo explica paso a paso. https://apuntes.de/javascript-estructuras-de-datos-y-algoritmos/ejecutar-codigo-javascript-en-chrome/#gsc.tab=0
+*-Para consultar mas acerca de como crear un snippet consultar esta web que he consultado yo y lo explica paso a paso. https://apuntes.de/javascript-estructuras-de-datos-y-algoritmos/ejecutar-codigo-javascript-en-chrome/#gsc.tab=0*
 
  *- Evaluación de las difrencias de compatibilidad entre navegadores*
 
@@ -82,7 +82,7 @@ De entre todos los navegadores que existen a día de hoy vemos cuales son los ma
 Estos datos son obtenidos gracias a https://www.w3counter.com/globalstats.php
 
 *-Resolución de problemas de compatibilidad en una aplicación web.*
-En https://comparium.app/es/blog/cross-browser-compatibility-issues/ citan 10 problemas de compatiblidad muy comunes yo he seleccionado los que creo mas posibles y soluciones ante ellos.
+*-En https://comparium.app/es/blog/cross-browser-compatibility-issues/ citan 10 problemas de compatiblidad muy comunes yo he seleccionado los que creo mas posibles y soluciones ante ellos.*
 
 - Validar los archivos CSS y HTML ya que pueden ser un gran problema para los desarrolladores. Esto se debe al que el código es leído y cada navegador lo gestiona de una forma distinta y cualquier error produce fallos o problemas.
 
@@ -95,7 +95,7 @@ Puedes usar herramientas como Babel for JavaScript Transpilling para poder conve
 ### 3. Lenguajes de Programación en Entonrno Cliente.
 *- Investigación de lenguajes como JavaScript, Typescript y otros*
 
-Toda la información acerca de este punto la he sacados de estas referencias:
+*-Toda la información acerca de este punto la he sacados de estas referencias:*
 
 https://www.manualweb.net/javascript/caracteristicas-javascript/
 https://www.nextu.com/blog/que-es-html-rc22/
@@ -186,7 +186,7 @@ Se utiliza principalmente para el desarrollo de aplicaciones web y proyectos de 
 
 *-Exploración de tecnologías como CSS y HTML5.*
 
-En esta web que he consultado https://www.mediummultimedia.com/web/que-otras-tecnologias-se-usan-en-html5/ esta mucho mas extendido.
+*-En esta web que he consultado https://www.mediummultimedia.com/web/que-otras-tecnologias-se-usan-en-html5/ esta mucho mas extendido.*
 
 HTML5 es un lenguaje de marcas que permite estructura y presentar contenido en la web, pero su fuerte son las tecnologías complementarias que les rodea:
 
@@ -255,7 +255,7 @@ JavaScript en un archivo externo.
 ### 6. Herramientas de Programación. 
 *- Uso de herramientas como Visual Studio Code, Chrome DevTools, etc.*
 
-De entre todas las herramientas citadas en https://www.hostinger.es/tutoriales/herramientas-de-programacion he seleccionado para principiantes las mas sencillas y completas.
+*-De entre todas las herramientas citadas en https://www.hostinger.es/tutoriales/herramientas-de-programacion he seleccionado para principiantes las mas sencillas y completas.*
 
 - **Visual Studio Code.** Es un editor de código abierto que se ejecuta en Windows, Linux y macOS. Este incluye funciones integradas como resaltado de sintaxis, autocompletado y comandos de Git para que la programación sea más rápida y sencilla. Además de una terminal y un depurador integrados, Visual Studio Code admite herramientas de análisis de código e integraciones de software con otras potentes herramientas de programación como Git, PHP CS Fixer y ESLint. Recalcar que Visual Studio Code es de uso completamente gratuito.     
 
