@@ -41,7 +41,8 @@ marp: true
 La arquitectura web consiste en la planificación y diseño de los componentes técnicos, funcionales y visuales de un sitio web, antes de que sea diseñado, desarrollado e implementado.
 
  *- Investigación de los modelos cliente/servidor más comunes*
- Según https://kinsta.com/es/blog/arquitectura-aplicaciones-web/ estos son los modelos cliente/servidor mas cómunes y las ventajas de cada uno 
+ 
+ - Según https://kinsta.com/es/blog/arquitectura-aplicaciones-web/ estos son los modelos cliente/servidor mas cómunes y las ventajas de cada uno 
 
 - **Single Page Application (SPA)**: consiste en una única página que recoge todo el contenido de forma que el usuario una vez accede a la aplicación, no necesita navegar a otra página web.                                                                           Ventajas de las SPA, podemos construir aplicaciones web con muchas interacciones, optimizar las SPA no supone gran impacto en el rendimiento.
 - **Arquitectura de Aplicaciones Web Progresivas (PWA)**: se basa en una única página que proporciona capacidades offline para tu aplicación web. Al igual que las SPA, las PWA son fluidas y sin fisuras.                                                                              Ventajas de la arquitectura PWA, las aplicaciones se ejecutan con mucha fluidez y son compatibles entre plataformas, los desarrolladores pueden acceder al acceso sin conexión y a las API de los dispositivos.
